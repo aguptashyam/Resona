@@ -44,7 +44,7 @@ Resona is a modern, secure platform for anonymous feedback and messaging. It all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aguptashyam/resona.git
+   git clone https://github.com/aguptashyam/Resona.git
    cd resona
    ```
 
